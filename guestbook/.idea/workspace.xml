@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4fd8af5-152c-4daf-9b5f-f4684342569a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/zerock/guestbook/controller/GuestbookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/zerock/guestbook/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/zerock/guestbook/entity/Guestbook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/zerock/guestbook/repository/GuestbookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/guestbook/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/zerock/guestbook/repository/GuestbookRepositoryTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex3/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ex3/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex3/src/main/java/org/zerock/ex3/controller/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex3/src/main/java/org/zerock/ex3/controller/SampleController.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a174024-e6e8-437e-b311-6e1460fc0301" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,25 +15,11 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1nH6NaygcSwqjloXDqVX3TXm1dd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1nHYqgEruOTrsbvDTwOGpKoQDQU" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,27 +37,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="GuestbookRepositoryTests.insertDummies" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;org.zerock.guestbook.repository.GuestbookRepositoryTests.insertDummies&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="GuestbookRepositoryTests.testQuery1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -124,33 +80,10 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="GuestbookRepositoryTests.updateTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;org.zerock.guestbook.repository.GuestbookRepositoryTests.updateTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.GuestbookRepositoryTests.testQuery2" />
         <item itemvalue="Gradle.GuestbookRepositoryTests.testQuery1" />
-        <item itemvalue="Gradle.GuestbookRepositoryTests.updateTest" />
-        <item itemvalue="Gradle.GuestbookRepositoryTests.insertDummies" />
         <item itemvalue="Application.GuestbookApplication" />
       </list>
     </recent_temporary>
@@ -158,23 +91,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4fd8af5-152c-4daf-9b5f-f4684342569a" name="Default Changelist" comment="" />
-      <created>1611034629774</created>
+      <changelist id="3a174024-e6e8-437e-b311-6e1460fc0301" name="Default Changelist" comment="" />
+      <created>1611048675955</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611034629774</updated>
+      <updated>1611048675955</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
