@@ -26,7 +26,7 @@ public interface ReviewService {
         Review movieReview = Review.builder()
                 .reviewnum(movieReviewDTO.getReviewnum())
                 .movie(Movie.builder().mno(movieReviewDTO.getMno()).build())
-                .member(Member.builder().mid(movieReviewDTO.getMno()).build())
+                .member(Member.builder().mid(movieReviewDTO.getMid()).build())
                 .grade(movieReviewDTO.getGrade())
                 .text(movieReviewDTO.getText())
                 .build();
